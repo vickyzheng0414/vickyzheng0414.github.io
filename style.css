@@ -35,11 +35,11 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffafcc;
+    background-color: #cdb4db;
 }
 
 .bg-2 {
-    background-color: #cdb4db;
+    background-color: #ffc8dd;
 }
 
 .card {
@@ -52,13 +52,11 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #ffafcc;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
-    color: #fff;
+    background-color: #a2d2ff;
 }
 
 .container-fluid {
