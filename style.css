@@ -35,8 +35,9 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-image: url (")
+    /* background-color: #ffffff; /* White */
+   /* color: #555555;
 }
 
 .bg-2 {
