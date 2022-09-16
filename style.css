@@ -34,13 +34,8 @@ a {
     margin-bottom: 45px;
 }
 
-.bg-1 {
-    background-color: white;
-}
-
-
-.bg-2 {
-    background-color: #cdb4db;
+#projects {
+    background-image: url(img/galaxy.jpg);
 }
 
 .card {
