@@ -34,6 +34,11 @@ a {
     margin-bottom: 45px;
 }
 
+.bg-1 {
+    background-color: white;
+}
+
+
 #projects {
     background-image: url(img/galaxy.jpg);
 }
