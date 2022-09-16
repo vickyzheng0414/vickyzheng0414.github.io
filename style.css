@@ -42,6 +42,7 @@ a {
 
 #projects {
     background-image: url(img/galaxy.jpg);
+    color: white;
 }
 
 .card {
