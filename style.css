@@ -38,6 +38,11 @@ a {
     background-color: white;
 }
 
+#projects {
+    background-image: url(img/background-design.jpg);
+    background-repeat: no-repeat;
+}
+
 .bg-2 {
     background-color: #cdb4db;
 }
