@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-image: url (")
+    background-image: url ("background-image");
     /* background-color: #ffffff; /* White */
    /* color: #555555;
 }
