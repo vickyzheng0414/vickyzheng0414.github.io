@@ -35,11 +35,11 @@ a {
 }
 
 .bg-1 {
-    background-color: #cdb4db;
+    background-color: white;
 }
 
 .bg-2 {
-    background-color: #ffafcc;
+    background-color: #cdb4db;
 }
 
 .card {
@@ -52,7 +52,8 @@ a {
 }
 
 .bg-3 {
-    background-color: #a2d2ff
+    background-color: #000000; /* Black */
+    color: #ffffff;
 }
 
 .bg-4 {
