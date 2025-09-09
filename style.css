@@ -27,9 +27,9 @@ a {
     filter: invert(1);
 }
 
-#sep {
+/* #sep {
     height: 75px;
-}
+} */
 
 .margin {
     margin-bottom: 45px;
@@ -59,10 +59,10 @@ a {
     color: #ffffff;
 }
 
-.bg-4 {
+/* .bg-4 {
     background-color: #343a40; /* Dark Gray */
     color: #fff;
-}
+} */
 
 .container-fluid {
     padding-top: 50px;
